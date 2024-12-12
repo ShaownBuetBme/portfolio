@@ -26,7 +26,7 @@
 
 - **Bachelor of Science in Biomedical Engineering (2020–2025)**  
   Bangladesh University of Engineering and Technology (BUET)  
-  **CGPA:** 3.94/4.00  
+
 
 ---
 
