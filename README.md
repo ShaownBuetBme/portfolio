@@ -1,10 +1,10 @@
 # Mohammad Shaown
 
-👋 Hi there! I'm Mohammad Shaown, an undergraduate student in **Biomedical Engineering** at **Bangladesh University of Engineering and Technology (BUET)**, graduating in February 2025. Passionate about leveraging technology to revolutionize healthcare, I specialize in **biomedical instrumentation**, **IoT**, and **AI-driven innovations**.
+ Hi there! I'm Mohammad Shaown, an undergraduate student in **Biomedical Engineering** at **Bangladesh University of Engineering and Technology (BUET)**, graduating in February 2025. Passionate about leveraging technology to revolutionize healthcare, I specialize in **biomedical instrumentation**, **IoT**, and **AI-driven innovations**.
 
 ---
 
-## 🛠️ Skills and Expertise
+##  Skills and Expertise
 
 - **Programming Languages:** C, Python, JavaScript, SQL
 - **Frameworks & Tools:** React, Node.js, Express.js, MongoDB, MySQL, Docker, JavaFX
@@ -13,7 +13,7 @@
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 - Signal Processing and Embedded Systems
 - Image Processing and Generative AI
@@ -22,7 +22,7 @@
 
 ---
 
-## 📚 Education
+##  Education
 
 - **Bachelor of Science in Biomedical Engineering (2020–2025)**  
   Bangladesh University of Engineering and Technology (BUET)  
@@ -30,7 +30,7 @@
 
 ---
 
-## 📂 Notable Projects
+##  Notable Projects
 
 ### **Hand Gesture Classification Using Surface EMG Signals**
 - Developed a machine learning-based system for classifying hand gestures using sEMG signals.
@@ -49,7 +49,7 @@
 
 ---
 
-## 🏆 Publications
+##  Publications
 
 - **NeoSense: A Low-Cost Monitoring System for Effective Neonatal Apnea Detection and Care**  
   *Accepted at 1st International Conference on Core Engineering & Technology (IUT-ICCET 2024)*  
@@ -61,14 +61,14 @@
 
 ---
 
-## 🎖️ Awards and Recognition
+##  Awards and Recognition
 
 - **WEWB Scholarship (2020)**  
   Awarded by the Ministry of Expatriates’ Welfare for exceptional academic performance.  
 
 ---
 
-## 🏢 Leadership Roles
+##  Leadership Roles
 
 - **Vice President, BUET BMES Student Chapter (2024)**  
 - **Vice President, BUET Animata (2024)**  
@@ -76,7 +76,7 @@
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 - **Email:** [shaownbuetbme@gmail.com](mailto:shaownbuetbme@gmail.com)  
 - **LinkedIn:** [mohammad-shaown](https://www.linkedin.com/in/mohammad-shaown-1b8125302/)  
