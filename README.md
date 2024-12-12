@@ -1,6 +1,6 @@
 # Mohammad Shaown
 
- Hi there! I'm Mohammad Shaown, an undergraduate student in **Biomedical Engineering** at **Bangladesh University of Engineering and Technology (BUET)**, graduating in February 2025. Passionate about leveraging technology to revolutionize healthcare, I specialize in **biomedical instrumentation**, **IoT**, and **AI-driven innovations**.
+ Hi there! I'm Mohammad Shaown, An undergraduate student of Biomedical Engineering at Bangladesh University of Engineering and Technology, set to graduate in February 2025. Passionate about advancing healthcare solutions through expertise in biomedical instrumentation, IoT technology, and AI-driven innovations, I aim to contribute to impactful projects that enhance human health and well-being.
 
 ---
 
@@ -53,11 +53,11 @@
 
 - **NeoSense: A Low-Cost Monitoring System for Effective Neonatal Apnea Detection and Care**  
   *Accepted at 1st International Conference on Core Engineering & Technology (IUT-ICCET 2024)*  
-  Co-authors: Samiha Jainab, Natalia Raj, Md. Shaown Miah  
+  Co-authors: Samiha Jainab, Natalia Raj, Md. Shaown  
 
 - **Efficient Antihallucinogenic AI for Tropical Medicine**  
   *Under Review at AAAI 2025 Workshop on LLMs for Health*  
-  Co-authors: S. M. Sakeef Sani, Md. Shaown Miah, Taufiq Hasan  
+  Co-authors: S. M. Sakeef Sani, Md. Shaown, Taufiq Hasan  
 
 ---
 
