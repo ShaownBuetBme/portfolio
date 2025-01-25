@@ -55,8 +55,9 @@
   *Accepted at 1st International Conference on Core Engineering & Technology (IUT-ICCET 2024)*  
   Co-authors: Samiha Jainab, Natalia Raj, Md. Shaown  
 
-- **Efficient Antihallucinogenic AI for Tropical Medicine**  
-  *Under Review at AAAI 2025 Workshop on LLMs for Health*  
+- **Efficient Antihallucinogenic AI for Tropical Medicine: A Probabilistic Framework for Differential
+Diagnosis**  
+  *Accepted at AAAI 2025 Workshop on LLMs for Health*  
   Co-authors: S. M. Sakeef Sani, Md. Shaown, Taufiq Hasan  
 
 ---
